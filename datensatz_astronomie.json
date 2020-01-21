@@ -1,21 +1,21 @@
 [
   {
-      "name" : "Kepler Exoplanet Search Results",
-      "short" : "10000 exoplanet candidates examined by the Kepler Space Observatory",
+      "Name" : "Kepler Exoplanet Search Results",
+      "Beschreibung" : "10000 exoplanet candidates examined by the Kepler Space Observatory",
       "rank" : "Context The Kepler Space Observatory is a NASAbuild satellite that was launched in 2009 The telescope is dedicated to searching for exoplanets in star systems besides our own with the ultimate goal of possibly finding other habitable planets besides our own The original mission ended in 2013 due to mechanical failures but the telescope has nevertheless been functional since 2014 on a K2 extended mission Kepler had verified 1284 new exoplanets as of May 2016 As of October 2017 there are over 3000 confirmed exoplanets total using all detection methods including groundbased ones The telescope is still active and continues to collect new data on its extended mission",
-      "population" : 4067175,
-      "capital" : "Edmonton",
-      "latitude" : "http://example.com/articles",
-      "longitude" : -116.5765035
+      "Updated" : 4067175,
+      "Download" : "Edmonton",
+      "Quelle" : "http://example.com/articles",
+      "Lizenz" : -116.5765035
   }
   ,
   {
-      "name" : "British Columbia",
-      "short" : "BC",
+      "Name" : "British Columbia",
+      "Beschreibung" : "BC",
       "rank" : 3,
-      "population" : 4648055,
-      "capital" : "Victoria",
-      "latitude" : 53.7266683,
-      "longitude" : -127.6476206
+      "Updated" : 4648055,
+      "Download" : "Victoria",
+      "Quelle" : 53.7266683,
+      "Lizenz" : -127.6476206
   }
 ]
