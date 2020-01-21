@@ -1,12 +1,12 @@
 [
   {
-      "Name" : "Kepler Exoplanet Search Results",
-      "Beschreibung" : "10000 exoplanet candidates examined by the Kepler Space Observatory",
+      "Name" : "Kepler Exoplanet Suchergebnisse",
+      "Beschreibung" : "10000 vom Kepler-Weltraumobservatorium untersuchte Exoplaneten-Kandidaten",
       "id" : "1",
-      "Letzte Aktualisierung" : 4067175,
+      "Letzte Aktualisierung" : 21.01.2020,
       "Download" : "Edmonton",
       "Quelle" : "http://example.com/articles",
-      "Lizenz" : -116.5765035
+      "Lizenz" : CC0: Public Domain
   }
   ,
   {
