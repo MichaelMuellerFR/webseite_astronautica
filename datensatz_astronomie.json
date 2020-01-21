@@ -1,0 +1,21 @@
+[
+  {
+      "name" : "Alberta",
+      "short" : "AB",
+      "rank" : 4,
+      "population" : 4067175,
+      "capital" : "Edmonton",
+      "latitude" : 53.9332706,
+      "longitude" : -116.5765035
+  }
+  ,
+  {
+      "name" : "British Columbia",
+      "short" : "BC",
+      "rank" : 3,
+      "population" : 4648055,
+      "capital" : "Victoria",
+      "latitude" : 53.7266683,
+      "longitude" : -127.6476206
+  }
+]
